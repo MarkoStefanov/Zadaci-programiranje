@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680640563 source:d:\marko\desktop\school\programiranje\najcest podstring\main.cpp
+	<iostream>
+	<string.h>
+	<map>
+
